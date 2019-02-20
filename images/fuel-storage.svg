@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="640px" height="480px" viewBox="0 0 640 480" enable-background="new 0 0 640 480" xml:space="preserve">
+<rect x="-3.5" y="-53.5" fill="#0D0F12" stroke="#000000" stroke-miterlimit="10" width="646" height="534"/>
+<text transform="matrix(-4.371138e-008 -1 1 -4.371138e-008 39.9409 417.6699)" fill="#FFFFFF" font-family="'BrandonText-Light'" font-size="34.7112">Amount of Fuel burned</text>
+<text transform="matrix(1 0 0 1 186.3779 33.021)" fill="#FFFFFF" font-family="'BrandonText-Medium'" font-size="38.6937">FUEL STORAGE</text>
+<text transform="matrix(1 0 0 1 265.1084 464.0186)" fill="#FAFCFF" font-family="'BrandonText-Light'" font-size="21.2104">Travel time</text>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="330.8252" y1="-11.0923" x2="329.5022" y2="426.0018">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<polyline fill="url(#SVGID_1_)" points="76.5,112.25 172,131.125 221,247.563 399,267.031 518.5,336.016 584,352 584,427 75,427 "/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="76.5" y1="69" x2="76.5" y2="426"/>
+</svg>
